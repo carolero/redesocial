@@ -1,0 +1,47 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0% auto;
+    background-color: #000;
+    /* overflow-x: hidden;  */
+}
+
+a:link {
+    text-decoration:none;
+} 
+
+
+.divider {
+    height: 12vh;
+}
+
+.divider-two {
+    height: 4.1vh;
+}
+
+.divider-news {
+    height: 5vh;
+}
+
+.main-box .back-img {
+    height: 100vh;
+    width: auto;
+}
+
+.main-box .news-box {
+    height: 70vh;
+    background-color: #000;
+    opacity: 0.8;
+}
+
+.main-box .news-box h1 {
+    padding: 4vh 0vh;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+
+.post-box textarea {
+    width: 100vh;
+}
