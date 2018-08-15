@@ -18,6 +18,14 @@ a:link {
     height: 4.1vh;
 }
 
+.divider-box {
+    height: 10vh;
+}
+
+.divider-register {
+    height: 5vh;
+}
+
 .box-image .back-img {
     height: 100vh;
     width: auto;
@@ -28,7 +36,7 @@ a:link {
 }
 
 .box-image .login-box {
-    height: 75vh;
+    height: 45vh;
     background-color: #000;
     opacity: 0.8;
 }
